@@ -9,7 +9,7 @@ display_readtime: true
 display_date: true
 ---
 
-# First hugo post
+# First Paragraph
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elit nisl, bibendum sed neque vel, convallis suscipit lorem. Aenean non lobortis ipsum. Vivamus non suscipit lectus. Aliquam congue consectetur sagittis. Nunc aliquam elit ut iaculis lobortis. Sed lobortis ornare pretium. Integer varius, ante laoreet commodo aliquam, purus justo vestibulum nisi, ac tincidunt eros augue dictum justo. Vestibulum imperdiet lorem eu ligula pellentesque tincidunt. Curabitur sodales leo id diam pretium pretium.
 
@@ -34,14 +34,14 @@ Nulla ut nisl sit amet odio scelerisque accumsan eget a felis. Praesent vitae so
 $
 ```
 
-# Second Paragraph h1
+# H1 Paragraph
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elit nisl, bibendum sed neque vel, convallis suscipit lorem. Aenean non lobortis ipsum. Vivamus non suscipit lectus. Aliquam congue consectetur sagittis. Nunc aliquam elit ut iaculis lobortis. Sed lobortis ornare pretium. Integer varius, ante laoreet commodo aliquam, purus justo vestibulum nisi, ac tincidunt eros augue dictum justo. Vestibulum imperdiet lorem eu ligula pellentesque tincidunt. Curabitur sodales leo id diam pretium pretium.
 
-## Second Paragraph h2
+## H2 Paragraph
 
 Integer commodo dolor urna, id condimentum odio semper porttitor. Curabitur maximus malesuada odio. Donec semper sapien ut tristique eleifend. Integer in metus eu urna consectetur laoreet. Donec laoreet neque orci, quis mattis mi consequat sed. In aliquam in leo eu luctus. Integer posuere euismod lectus, id lobortis urna tincidunt a. Vivamus commodo sed dolor sed tincidunt. Donec eget consectetur mi. Aliquam sed pretium turpis. Nunc lacus nibh, ultricies ut massa eu, vestibulum tempor odio. Donec ex ipsum, gravida sit amet sodales finibus, luctus non diam. Suspendisse dignissim ornare orci, in ullamcorper nisi varius rhoncus. Suspendisse aliquet ultricies elit, a tempor quam.
 
-### Second Paragraph h3
+### H3 Paragraph
 
 Quisque efficitur fermentum erat et pulvinar. Pellentesque sollicitudin malesuada quam ac auctor. Duis bibendum eget eros ut pretium. Nulla facilisis felis vitae sem ultricies bibendum. Fusce et urna a enim finibus cursus sed eu nunc. Maecenas blandit, nulla ut feugiat accumsan, lacus nisi tristique orci, et tincidunt lacus ligula in felis. Suspendisse a mauris vestibulum, sagittis elit vel, luctus mauris. Vestibulum rhoncus aliquet gravida. In tincidunt mauris leo, in maximus velit semper id. Sed orci urna, pellentesque vel orci sit amet, elementum luctus mauris.
