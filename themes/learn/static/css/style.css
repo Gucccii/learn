@@ -71,4 +71,23 @@ h2.header-desc {
   font-size: 1.5rem;
 }
 
+/* Sidebar */
+
+div.col-sm-3.offset-sm-1.article__sidebar div {
+  border: 1px solid #DFDFDF;
+}
+
+div.sidebar-toc h3 {
+  border-bottom: 1px solid #DFDFDF;
+  background-color: transparent;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+/* Table of Contents */
+
+nav#TableofContents ul li a{
+  color: #000000;
+}
+
 
