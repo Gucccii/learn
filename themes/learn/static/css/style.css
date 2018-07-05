@@ -73,6 +73,11 @@ h2.header-desc {
 
 /* Sidebar */
 
+div.col-sm-3.offset-sm-1.article__sidebar {
+  border-left: 1px solid #DFDFDF;
+}
+
+/*
 div.col-sm-3.offset-sm-1.article__sidebar div {
   border: 1px solid #DFDFDF;
 }
@@ -83,7 +88,7 @@ div.sidebar-toc h3 {
   text-align: center;
   font-size: 1.5rem;
 }
-
+*/
 /* Table of Contents */
 
 nav#TableofContents ul li a{
